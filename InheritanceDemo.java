@@ -25,10 +25,3 @@ class Mammals extends Animal{
 class  Dog extends Mammals{
     String breed;
 }
-
-// class Fish extends Animal {
-//     int fins;
-//     void swim() {
-//         System.out.println("Swims in water");
-//     }
-// }
